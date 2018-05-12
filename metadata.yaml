@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3802
     wikipedia: http://en.wikipedia.org/wiki/Leslie_Stephen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28980#The-Life-of-Sir-James-Fitzjames-Stephen-Bart.-K.C.S.I.A-Judge-of-the-High-Court-of-Justice
 gutenberg_issued: '2009-05-28'
 gutenberg_type: Text
 identifiers:
