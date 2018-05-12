@@ -1,0 +1,32 @@
+_repo: The-Life-of-Sir-James-Fitzjames-Stephen-Bart.-K.C.S.I.A-Judge-of-the-High-Court-of-Justice_28980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephen, Leslie
+    alias: Stephen, Sir Leslie
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '3802'
+    url: http://www.gutenberg.org/2009/agents/3802
+    wikipedia: http://en.wikipedia.org/wiki/Leslie_Stephen
+description: ''
+gutenberg_issued: '2009-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Judges -- Great Britain -- Biography'
+- !lcsh 'Stephen, James Fitzjames, Sir, 1829-1894'
+- !lcc 'KD'
+title: 'The Life of Sir James Fitzjames Stephen, Bart., K.C.S.I.
+
+  A Judge of the High Court of Justice'
+url: http://www.gutenberg.org/ebooks/28980
